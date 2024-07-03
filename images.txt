@@ -1,1 +1,1 @@
-pnnlmiscscripts/anaconda
+python
