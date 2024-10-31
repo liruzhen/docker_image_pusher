@@ -1,1 +1,1 @@
-registry.hf.space/kwaivgi-liveportrait:cpu-089d514
+mysql:8.3.0-1.el8
